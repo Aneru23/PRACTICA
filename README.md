@@ -1,4 +1,4 @@
-Practica-1-INF-121
+Practica-1 y 2 -INF-121
 
 ANEL ESCARLET ILIMORI TOTOLA
 
