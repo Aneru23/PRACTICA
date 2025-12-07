@@ -1,0 +1,2 @@
+Anel;programador;45
+Ecomoda;ModaEco;100
